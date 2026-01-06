@@ -1,0 +1,5 @@
+{
+  "name": "ZPL Master Pro",
+  "description": "Gerenciador profissional de etiquetas ZPL. Converta arquivos ZPL em PDF, analise dados com IA e imprima diretamente em impressoras térmicas via USB.",
+  "requestFramePermissions": []
+}
